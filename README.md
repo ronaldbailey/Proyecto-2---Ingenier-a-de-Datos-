@@ -68,3 +68,22 @@ de un link de Git, incluyendo el reporte de desarrollo, los notebooks utiilzados
 los scripts finales. Adicinalmente deberá hacer un video de 5 a 7 minitos máximo
 donde explique todos los pasos que realizó para desarrollar su proyecto, es decir
 describir todos los elementos de su proyecto.
+
+## DESCRIPCION DE LA TABLA PRINCIPAL UTILIZADA EN EL PROYECTO 
+
+Esta tabla representa una lista de cuentas por cobrar de una empresa. Cada fila de la tabla representa una cuenta individual, y las columnas contienen información sobre cada cuenta en particular.
+
+Las columnas se utilizan para registrar la siguiente información:
+
+Codigo_Cuenta: El código único de cada cuenta.
+Cliente: El nombre del cliente que debe pagar la cuenta.
+Descripcion_Producto: Una descripción del producto o servicio que se proporcionó al cliente.
+Retencion: La cantidad retenida de la cuenta (si existe).
+Bien_o_Servicio: Indica si se proporcionó un bien o un servicio al cliente.
+Factura_o_Recibo: El número de factura o recibo asociado con la cuenta.
+Total_Pagar: El monto total que se debe pagar, incluida la retención (si existe).
+Impuesto: El impuesto correspondiente a la cuenta.
+Total_Libre: El monto total que se debe pagar sin incluir la retención.
+Fecha_Estm_Pago: La fecha en que se espera que se pague la cuenta.
+Ubicacion_Cuenta: La ubicación de la cuenta.
+Esta tabla se utiliza para llevar un registro de las cuentas pendientes de pago de una empresa, así como para rastrear la cantidad de retención de cada cuenta. También proporciona información sobre los productos o servicios que se proporcionaron a cada cliente y cuánto deben pagar en total.
