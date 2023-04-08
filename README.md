@@ -23,7 +23,7 @@ ingeniería utilizando Python, SQL y AWS como herramientas de desarrollo, su
 proyecto debe contar con los siguientes componentes:
 
 
-- Scope: Scope del Proyecto y descripción de fuentes de información,
+- 1.Scope: Scope del Proyecto y descripción de fuentes de información,
 - Exploración: Exploración de la data para definir el modelo de datos,
 - Modelo de datos: Deberá definer el modelo de datos que usará para su
 Proyecto ya sea un DW o un DL,
@@ -69,7 +69,7 @@ los scripts finales. Adicinalmente deberá hacer un video de 5 a 7 minitos máxi
 donde explique todos los pasos que realizó para desarrollar su proyecto, es decir
 describir todos los elementos de su proyecto.
 
-## DESCRIPCION DE LA TABLA PRINCIPAL UTILIZADA EN EL PROYECTO 
+## 1. scope, DESCRIPCION DE LA TABLA PRINCIPAL UTILIZADA EN EL PROYECTO 
 
 Esta tabla representa una lista de cuentas por cobrar de una empresa. Cada fila de la tabla representa una cuenta individual, y las columnas contienen información sobre cada cuenta en particular.
 
@@ -85,6 +85,6 @@ Las columnas se utilizan para registrar la siguiente información:
 - Impuesto: El impuesto correspondiente a la cuenta.
 - Total_Libre: El monto total que se debe pagar sin incluir la retención.
 - Fecha_Estm_Pago: La fecha en que se espera que se pague la cuenta.
-- Ubicacion_Cuenta: La ubicación de la cuenta de la organizacion de la empresa.
+- tipo_cuenta: La ubicación de la cuenta de la organizacion de la empresa.
 
 Esta tabla se utiliza para llevar un registro de las cuentas pendientes de pago de una empresa, así como para rastrear la cantidad de retención de cada cuenta. También proporciona información sobre los productos o servicios que se proporcionaron a cada cliente y cuánto deben pagar en total.
